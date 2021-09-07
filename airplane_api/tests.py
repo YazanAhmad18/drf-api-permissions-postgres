@@ -19,3 +19,5 @@ class AirplanesTests(TestCase):
         self.assertEqual(expected_author, 'testuser1')
         self.assertEqual(expected_airplanetype, 'airbus')
         self.assertEqual(expected_description, '380a')
+
+
